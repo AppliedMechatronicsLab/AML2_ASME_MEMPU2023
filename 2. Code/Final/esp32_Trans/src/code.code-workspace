@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../../code"
+		},
+		{
+			"name": "KTMT",
+			"path": "../../../../../../../code/KTMT"
+		},
+		{
+			"name": "test",
+			"path": "../../../../../STM32/test"
+		},
+		{
+			"name": "esp32_Trans",
+			"path": ".."
+		},
+		{
+			"name": "esp32_Rec",
+			"path": "../../esp32_Rec"
+		},
+		{
+			"name": "esp32_Trans_V2",
+			"path": "../../esp32_Trans_V2"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.tcc": "cpp",
+			"ctime": "cpp",
+			"iomanip": "cpp",
+			"limits": "cpp",
+			"numeric": "cpp",
+			"streambuf": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"utility": "cpp"
+		}
+	}
+}
